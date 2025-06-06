@@ -46,8 +46,8 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente:
 
 ```bash
 # 1. Clona el repositorio
+https://github.com/maal333/fronted_final3.git
 
-cd track-x
 
 # 2. Instala las dependencias del frontend
 npm install
