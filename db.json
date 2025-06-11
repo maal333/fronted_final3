@@ -13,18 +13,18 @@
   ],
   "subscriptions": [
     {
-      "serviceName": "music",
-      "cost": 9.9,
-      "category": "Música",
-      "renewalDate": "2025-06-20",
-      "id": "2"
-    },
-    {
       "id": "b6dd",
       "serviceName": "videojuego",
       "cost": 10,
       "category": "Videogames",
       "renewalDate": "2024-05-12"
+    },
+    {
+      "serviceName": "juegos",
+      "cost": 89.9,
+      "category": "no se",
+      "renewalDate": "2025-06-02",
+      "id": "56ed"
     }
   ]
 }
