@@ -67,8 +67,12 @@ Contraseña: admin123
 Correo:user@pixelhub.com
 Contraseña:user123
 
+## 🚀Proyecto despleglado en Vercel
+
+https://fronted-final3.vercel.app/login
+
 ## 📫 Autor
 
 Desarrollado por **Mauricio Guaman**  
-Estudiante del cesde+++++++++++++++
+Estudiante del cesde
 🚀 ¡Gracias por visitar este proyecto!
